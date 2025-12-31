@@ -1,0 +1,8 @@
+# Mencegah listing directory (orang tidak bisa lihat daftar file)
+Options -Indexes
+
+# Mencegah akses langsung ke folder config dan includes dari browser
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteRule ^(config|includes|vendor)/ - [F,L]
+</IfModule>
