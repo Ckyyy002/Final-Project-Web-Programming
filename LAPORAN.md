@@ -1,4 +1,4 @@
-FINAL PROJECT PEMROGRAMAN WEB - KELOMPOK 15
+# FINAL PROJECT PEMROGRAMAN WEB - KELOMPOK 15
 
 **Dibuat oleh:**
 * **Ary Pasya Fernanda** (5025241053)
@@ -7,7 +7,7 @@ FINAL PROJECT PEMROGRAMAN WEB - KELOMPOK 15
 ---
 
 ### 🔗 Link Proyek
-> **[STUDYSYNC](https:lucky-himawan.rf.gd)**
+> **[STUDYSYNC](https://lucky-himawan.rf.gd)**
 
 ---
 
